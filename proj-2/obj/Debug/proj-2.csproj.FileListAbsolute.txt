@@ -1,0 +1,6 @@
+/Users/rami/Dev/csc3350/projects/3350-P02/proj-2/bin/Debug/proj-2.exe
+/Users/rami/Dev/csc3350/projects/3350-P02/proj-2/bin/Debug/proj-2.pdb
+/Users/rami/Dev/csc3350/projects/3350-P02/proj-2/obj/Debug/proj-2.csprojAssemblyReference.cache
+/Users/rami/Dev/csc3350/projects/3350-P02/proj-2/obj/Debug/proj-2.csproj.CoreCompileInputs.cache
+/Users/rami/Dev/csc3350/projects/3350-P02/proj-2/obj/Debug/proj-2.exe
+/Users/rami/Dev/csc3350/projects/3350-P02/proj-2/obj/Debug/proj-2.pdb
