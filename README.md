@@ -1,4 +1,4 @@
-# 3350 Project 02 - System Call Timing
+# CSC 3350 Project 02 - System Call Timing
 
 **Overview**
 
